@@ -1,3 +1,5 @@
+# Proyecto de predicción de ventas
+
 ## Objetivos del proyecto
 El objetivo principal de este proyecto es predecir las ventas mensuales del año 2018 utilizando diversos métodos de predicción. Se emplea un conjunto de datos de tiendas (store) que contiene información detallada sobre transacciones de ventas anteriores, lo que proporciona una base sólida para desarrollar modelos de predicción precisos y efectivos.
 
